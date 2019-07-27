@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/listado_edificios"
+        android:title="@string/edify_list"/>
+    <item
+        android:id="@+id/not_usuarios"
+        android:title="@string/notifications" />
+    <item
+        android:id="@+id/crud_sensores"
+        android:title="@string/sensores" />
+    <item
+        android:id="@+id/cerrar_session"
+        android:title="@string/close_session" />
+
+    <item android:id="@+id/icon_update"
+        android:icon="@drawable/ic_update"
+        android:title="Actualizar"
+        app:showAsAction="always" />
+</menu>

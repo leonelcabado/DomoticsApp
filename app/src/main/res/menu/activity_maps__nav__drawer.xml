@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_inicio"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_edificios"
+            android:icon="@drawable/ic_edificio"
+            android:title="@string/edify_list" />
+        <item
+            android:id="@+id/nav_sensores"
+            android:icon="@drawable/ic_sensor"
+            android:title="@string/crud_sensores" />
+        <item
+            android:id="@+id/nav_notificaciones"
+            android:icon="@drawable/ic_noti"
+            android:title="@string/notifications" />
+    </group>
+
+    <item android:title="@string/cuenta">
+        <menu>
+            <item
+                android:id="@+id/nav_cerrar"
+                android:icon="@drawable/ic_cerrar"
+                android:title="@string/close_session" />
+        </menu>
+    </item>
+
+</menu>

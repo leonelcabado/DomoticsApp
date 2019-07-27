@@ -1,0 +1,135 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.domotica_app_v2.Register_Activity"
+    >
+
+    <View
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:background="@color/backLogin" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/account"
+        android:textColor="@color/whiteColor"
+        android:textSize="40sp"
+        android:id="@+id/txt_success_name"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="63dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/succesLogin"
+        android:id="@+id/textView6"
+        android:textColor="@color/whiteColor"
+        android:gravity="center_horizontal"
+        android:layout_below="@+id/txt_success_name"
+        android:layout_alignRight="@+id/txtname_reg"
+        android:layout_alignEnd="@+id/txtname_reg"
+        android:layout_alignLeft="@+id/txtname_reg"
+        android:layout_alignStart="@+id/txtname_reg" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtname_reg"
+        android:hint="@string/fullName"
+        android:maxLines="1"
+        android:textColor="@color/whiteColor"
+        android:drawablePadding="10dp"
+        android:textColorHint="@color/placeHolder"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="180dp" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:maxLines="1"
+        android:textColor="@color/whiteColor"
+        android:textColorHint="@color/placeHolder"
+        android:id="@+id/txteUser_reg"
+        android:hint="@string/user"
+        android:drawablePadding="10dp"
+        android:layout_below="@+id/txtname_reg"
+        android:layout_alignLeft="@+id/txtname_reg"
+        android:layout_alignStart="@+id/txtname_reg"
+        android:layout_alignRight="@+id/txtname_reg"
+        android:layout_alignEnd="@+id/txtname_reg" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/txtpass_reg"
+        android:hint="@string/password"
+        android:maxLines="1"
+        android:textColor="@color/whiteColor"
+        android:textColorHint="@color/placeHolder"
+        android:drawablePadding="10dp"
+        android:layout_below="@+id/txteUser_reg"
+        android:layout_alignLeft="@+id/txteUser_reg"
+        android:layout_alignStart="@+id/txteUser_reg"
+        android:layout_alignRight="@+id/txteUser_reg"
+        android:layout_alignEnd="@+id/txteUser_reg" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtdni_reg"
+        android:hint="@string/dni"
+        android:maxLines="1"
+        android:inputType="text"
+        android:textColor="@color/whiteColor"
+        android:textColorHint="@color/placeHolder"
+        android:drawablePadding="10dp"
+        android:layout_below="@+id/txtpass_reg"
+        android:layout_alignLeft="@+id/txtpass_reg"
+        android:layout_alignStart="@+id/txtpass_reg"
+        android:layout_alignRight="@+id/txtpass_reg"
+        android:layout_alignEnd="@+id/txtpass_reg" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/register"
+        android:id="@+id/btn_reg"
+        android:layout_below="@+id/txtdni_reg"
+        android:layout_alignLeft="@+id/txtdni_reg"
+        android:layout_alignStart="@+id/txtdni_reg"
+        android:layout_marginTop="30dp"
+        android:layout_alignRight="@+id/txtdni_reg"
+        android:layout_alignEnd="@+id/txtdni_reg" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="125dp"
+        android:layout_height="109dp"
+        android:layout_below="@+id/btn_reg"
+        android:layout_alignBottom="@+id/title"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="149dp"
+        android:layout_marginTop="139dp"
+        android:layout_marginEnd="160dp"
+        android:layout_marginBottom="54dp"
+        app:srcCompat="@mipmap/ic_house_3" />
+
+
+</RelativeLayout>

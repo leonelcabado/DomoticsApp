@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"  tools:context="com.example.domotica_app_v2.Login_Activity"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_datos_edificio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="4dp"
+        app:cardCornerRadius="5dp"
+        >
+
+        <TextView
+            android:id="@+id/edificio_detail"
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/ic_edificio"
+            android:padding="5dp"
+            android:textIsSelectable="true"
+            tools:context=".EdificioDetailFragment"
+            />
+
+        <TextView
+            android:id="@+id/edificio_ID"
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:padding="5dp"
+            tools:context=".EdificioDetailFragment" />
+
+        <TextView
+            android:id="@+id/edificio_lat"
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:padding="5dp"
+            tools:context=".EdificioDetailFragment" />
+
+        <TextView
+            android:id="@+id/edificio_lon"
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="90dp"
+            android:padding="5dp"
+            tools:context=".EdificioDetailFragment" />
+
+        <TextView
+            android:id="@+id/edificio_iduser"
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:padding="5dp"
+            tools:context=".EdificioDetailFragment" />
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_grafico_va"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="4dp"
+        app:cardCornerRadius="5dp"
+        android:layout_below="@+id/cv_datos_edificio">
+
+        <TextView
+            android:id="@+id/titulo_va"
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:text="@string/val_act"
+            android:drawableEnd="@drawable/ic_barras"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            />
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/graficaActual"
+            android:layout_height="260dp"
+            android:layout_width="match_parent"
+            android:layout_marginTop="50dp"
+        />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_grafico_hist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="4dp"
+        app:cardCornerRadius="5dp"
+        android:layout_below="@+id/cv_grafico_va">
+
+        <TextView
+            android:id="@+id/titulo_hist"
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:text="@string/hist_val"
+            android:drawableEnd="@drawable/ic_historico"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            />
+
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/graficaHistorial"
+            android:layout_height="350dp"
+            android:layout_width="match_parent"
+            android:padding="16dp"
+            android:layout_marginTop="50dp"
+        />
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

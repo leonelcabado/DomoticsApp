@@ -1,0 +1,550 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\566598c5075898a3cdd3e406e2696bd3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4672d337a913e9113bf22a61096d41a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0b300a88bf985074246a7ffc575e18d3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a9572da3ec80d65e879cd6562a1b2dbb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\107ec2d7f1ad1372181b8820db3f02cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\86462c703adcfb65d0706e1b37e7e78c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:15:1-36:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\b6c129fad3970d14b00258196b7f064c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\571f28888dc5762df83ec64046035bab\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\bfc8ed340e598990c5b66255efe09089\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\034a4d659da5a34472e354659e4da51c\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\d58c96fbce101547342156d6e83c8afa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\046ab2ce03b3ff32f8bb7a855ec35bd7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4e0df47880eb8dd5baeed80a96610709\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a0a637887f22079c54ff1512f3f47f5c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a6b759aef6d26d963b14d6e89f7d271a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\8d5749fed9f45ee0ff9a1bcc0db221bc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c2e56bca656760fba6f3191e1626c0e3\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4376c69c3c28256bccf742a1e6a70157\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\8285effaa794ac6dce0502a867880d54\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4ee2c882b18d7e50aa985e07d103668c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\305ac98c4f33263a4817031c8a5ba33f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\f020099b8533eb69ffac0129adb42eb0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\7ae1fd420fa25fac50f46e00770d1efd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0db7eea0673d3f2f01ba85af87d6362a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\554fb41f0a383d3742952c9f9bd3b96b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\526150b76252bf00bb5ee0d1d2e28e3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\d6a54afeeec36934ed983f698eaa0d05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\64cd42429eaaf5590aab4e905807ff13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5a9fbe2f80a0190ad2a7dcaab656702c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\090abb23e494079660e6b82541c570de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\29306d04b5ec4c620d59e6464e4062d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\7a076e854d33066840c6e299d9d2748d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb6f131bedcb5ac1687752579babfcd9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\3edefb2b1568dc03e77667aa5d9db0e8\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a9a8a7497449ca50f6581b8dc2015b6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a14be667e57de9b545120bef6f177214\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\2d2a10a75954c7f482c3fff1ed852920\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a11e67202be0ab05eab32d71eca09e14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\20da22f20e31ccb7f95e90bb5bccb8ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ca156d4064a5ba28ee77c6a5dafd6684\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\15358dcb7191e3b7c344cc66e18ddcf8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\9e3f2e0e23bef0174532dd4eaa88d2fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb2fff33d99698d37dc329de8ef31819\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98a612edfc59812710232e871f3dcf0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\9a9c16ae0a7a529b55831f1fe2ab2e8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0c6f235ea9ed7303b5b96b43ed4e079d\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:12:22-76
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:16:9-32
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:15:9-47
+application
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:18:5-72:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\566598c5075898a3cdd3e406e2696bd3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\566598c5075898a3cdd3e406e2696bd3\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0b300a88bf985074246a7ffc575e18d3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0b300a88bf985074246a7ffc575e18d3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\86462c703adcfb65d0706e1b37e7e78c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\86462c703adcfb65d0706e1b37e7e78c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:28:5-34:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\b6c129fad3970d14b00258196b7f064c\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\b6c129fad3970d14b00258196b7f064c\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\571f28888dc5762df83ec64046035bab\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\571f28888dc5762df83ec64046035bab\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\bfc8ed340e598990c5b66255efe09089\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\bfc8ed340e598990c5b66255efe09089\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\034a4d659da5a34472e354659e4da51c\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\034a4d659da5a34472e354659e4da51c\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\d58c96fbce101547342156d6e83c8afa\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\d58c96fbce101547342156d6e83c8afa\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\046ab2ce03b3ff32f8bb7a855ec35bd7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\046ab2ce03b3ff32f8bb7a855ec35bd7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4e0df47880eb8dd5baeed80a96610709\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4e0df47880eb8dd5baeed80a96610709\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a0a637887f22079c54ff1512f3f47f5c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a0a637887f22079c54ff1512f3f47f5c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a6b759aef6d26d963b14d6e89f7d271a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a6b759aef6d26d963b14d6e89f7d271a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\8d5749fed9f45ee0ff9a1bcc0db221bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\8d5749fed9f45ee0ff9a1bcc0db221bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c2e56bca656760fba6f3191e1626c0e3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c2e56bca656760fba6f3191e1626c0e3\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb6f131bedcb5ac1687752579babfcd9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb6f131bedcb5ac1687752579babfcd9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\3edefb2b1568dc03e77667aa5d9db0e8\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\3edefb2b1568dc03e77667aa5d9db0e8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb6f131bedcb5ac1687752579babfcd9\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:25:9-40
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:19:9-49
+activity#com.example.domotica_app_v2.AccionesAutomaticas_Activity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:26:9-75
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:26:19-63
+activity#com.example.domotica_app_v2.Maps_Nav_Activity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:27:9-30:59
+	android:label
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:29:13-62
+	android:theme
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:28:13-46
+activity#com.example.domotica_app_v2.Sensor_Crud_Activity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:31:9-58
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:31:19-55
+activity#com.example.domotica_app_v2.Edificio_Crud_Activity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:32:19-57
+activity#com.example.domotica_app_v2.Notificaciones_Activity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:33:19-58
+activity#com.example.domotica_app_v2.EdificioListActivity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:34:9-37:59
+	android:label
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:36:13-56
+	android:theme
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:35:13-49
+activity#com.example.domotica_app_v2.EdificioDetailActivity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:parentActivityName
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:41:13-63
+	android:label
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:40:13-58
+	android:theme
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:39:13-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:43:13-45:84
+	android:value
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:45:17-81
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:44:17-63
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:55:9-57:55
+	android:value
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:57:13-52
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:56:13-58
+activity#com.example.domotica_app_v2.MapsActivity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:59:9-61:59
+	android:label
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:60:13-41
+activity#com.example.domotica_app_v2.Register_Activity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:62:9-55
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:62:19-52
+activity#com.example.domotica_app_v2.Login_Activity
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:63:9-69:20
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:63:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:64:13-68:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:65:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:67:17-77
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:67:27-74
+service#com.example.domotica_app_v2.Servicios.Servicio_BGN
+ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:71:9-59
+	android:name
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml:71:18-56
+uses-sdk
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\566598c5075898a3cdd3e406e2696bd3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\566598c5075898a3cdd3e406e2696bd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4672d337a913e9113bf22a61096d41a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4672d337a913e9113bf22a61096d41a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0b300a88bf985074246a7ffc575e18d3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0b300a88bf985074246a7ffc575e18d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a9572da3ec80d65e879cd6562a1b2dbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a9572da3ec80d65e879cd6562a1b2dbb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\107ec2d7f1ad1372181b8820db3f02cc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\107ec2d7f1ad1372181b8820db3f02cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\86462c703adcfb65d0706e1b37e7e78c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\86462c703adcfb65d0706e1b37e7e78c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:19:5-21:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\b6c129fad3970d14b00258196b7f064c\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\b6c129fad3970d14b00258196b7f064c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\571f28888dc5762df83ec64046035bab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\571f28888dc5762df83ec64046035bab\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\bfc8ed340e598990c5b66255efe09089\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\bfc8ed340e598990c5b66255efe09089\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\034a4d659da5a34472e354659e4da51c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\034a4d659da5a34472e354659e4da51c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\d58c96fbce101547342156d6e83c8afa\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\d58c96fbce101547342156d6e83c8afa\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\046ab2ce03b3ff32f8bb7a855ec35bd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\046ab2ce03b3ff32f8bb7a855ec35bd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4e0df47880eb8dd5baeed80a96610709\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4e0df47880eb8dd5baeed80a96610709\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a0a637887f22079c54ff1512f3f47f5c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a0a637887f22079c54ff1512f3f47f5c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a6b759aef6d26d963b14d6e89f7d271a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a6b759aef6d26d963b14d6e89f7d271a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\8d5749fed9f45ee0ff9a1bcc0db221bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\8d5749fed9f45ee0ff9a1bcc0db221bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c2e56bca656760fba6f3191e1626c0e3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c2e56bca656760fba6f3191e1626c0e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4376c69c3c28256bccf742a1e6a70157\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4376c69c3c28256bccf742a1e6a70157\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\8285effaa794ac6dce0502a867880d54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\8285effaa794ac6dce0502a867880d54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4ee2c882b18d7e50aa985e07d103668c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\4ee2c882b18d7e50aa985e07d103668c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\305ac98c4f33263a4817031c8a5ba33f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\305ac98c4f33263a4817031c8a5ba33f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\f020099b8533eb69ffac0129adb42eb0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\f020099b8533eb69ffac0129adb42eb0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\7ae1fd420fa25fac50f46e00770d1efd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\7ae1fd420fa25fac50f46e00770d1efd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0db7eea0673d3f2f01ba85af87d6362a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0db7eea0673d3f2f01ba85af87d6362a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\554fb41f0a383d3742952c9f9bd3b96b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\554fb41f0a383d3742952c9f9bd3b96b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\526150b76252bf00bb5ee0d1d2e28e3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\526150b76252bf00bb5ee0d1d2e28e3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\d6a54afeeec36934ed983f698eaa0d05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\d6a54afeeec36934ed983f698eaa0d05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\64cd42429eaaf5590aab4e905807ff13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\64cd42429eaaf5590aab4e905807ff13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5a9fbe2f80a0190ad2a7dcaab656702c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5a9fbe2f80a0190ad2a7dcaab656702c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\090abb23e494079660e6b82541c570de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\090abb23e494079660e6b82541c570de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\29306d04b5ec4c620d59e6464e4062d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\29306d04b5ec4c620d59e6464e4062d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\7a076e854d33066840c6e299d9d2748d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\7a076e854d33066840c6e299d9d2748d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb6f131bedcb5ac1687752579babfcd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb6f131bedcb5ac1687752579babfcd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\3edefb2b1568dc03e77667aa5d9db0e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\3edefb2b1568dc03e77667aa5d9db0e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a9a8a7497449ca50f6581b8dc2015b6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a9a8a7497449ca50f6581b8dc2015b6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a14be667e57de9b545120bef6f177214\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a14be667e57de9b545120bef6f177214\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\2d2a10a75954c7f482c3fff1ed852920\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\2d2a10a75954c7f482c3fff1ed852920\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a11e67202be0ab05eab32d71eca09e14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a11e67202be0ab05eab32d71eca09e14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\20da22f20e31ccb7f95e90bb5bccb8ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\20da22f20e31ccb7f95e90bb5bccb8ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ca156d4064a5ba28ee77c6a5dafd6684\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ca156d4064a5ba28ee77c6a5dafd6684\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\15358dcb7191e3b7c344cc66e18ddcf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\15358dcb7191e3b7c344cc66e18ddcf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\9e3f2e0e23bef0174532dd4eaa88d2fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\9e3f2e0e23bef0174532dd4eaa88d2fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb2fff33d99698d37dc329de8ef31819\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\fb2fff33d99698d37dc329de8ef31819\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98a612edfc59812710232e871f3dcf0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98a612edfc59812710232e871f3dcf0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\9a9c16ae0a7a529b55831f1fe2ab2e8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\9a9c16ae0a7a529b55831f1fe2ab2e8f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0c6f235ea9ed7303b5b96b43ed4e079d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\0c6f235ea9ed7303b5b96b43ed4e079d\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Leonidas\Desktop\Prueba_Domotica\Domotica_app_vNav\Domotica_app_v2\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\16d975df8967083e03565666866aaecd\AndroidManifest.xml:34:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\56b8e4c7430b38b0655615ed8495199c\AndroidManifest.xml:31:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\5d20a9384bbe15c9a5863bf016d41eda\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c4f4e9667b7f498a2a7a0c927797eb49\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\98b46304a843d0f32e25b1d35cde3676\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ff4767ad1c18e53ccd5925f1ff312d32\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\a07a6f51feb9d087327a6b464e95f01c\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\e54a525e41d77f28ad8b70229d9509e2\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\ad6494ba3cafcf6fd0c0613aeceb51a8\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c2e56bca656760fba6f3191e1626c0e3\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c2e56bca656760fba6f3191e1626c0e3\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Leonidas\.gradle\caches\transforms-2\files-2.1\c2e56bca656760fba6f3191e1626c0e3\AndroidManifest.xml:24:13-58

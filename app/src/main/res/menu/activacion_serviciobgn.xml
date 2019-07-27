@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/icon_update"
+        android:icon="@drawable/ic_update"
+        android:title="Actualizar"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/activador_sw"
+        android:title="@string/notifications"
+        app:actionLayout="@layout/switch_layout"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>
